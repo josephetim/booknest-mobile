@@ -47,7 +47,7 @@ A beautifully designed mobile app for discovering books, organizing reading list
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/yourusername/booknest-mobile
+git clone https://github.com/josephetim/booknest-mobile
 cd booknest-mobile
 npm install
 npx expo start
