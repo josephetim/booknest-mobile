@@ -22,7 +22,7 @@ A beautifully designed mobile app for discovering books, organizing reading list
 
 ## 📱 Demo
 
-- APK: https://expo.dev/accounts/druidivine/projects/booknest/builds/e56039f9-d873-437a-a856-f7eb8e3dc8cb
+- APK: https://expo.dev/accounts/druidivine/projects/booknest/builds/19b56c08-aba4-41a7-80c9-b83d53d87a7b
 - Video: https://drive.google.com/file/d/1XcWsQx1mAwJO1Qh_Z9iaLMotq0FuZT18/view?usp=drive_link
 - 
 
