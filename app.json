@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "booknest",
+    "name": "BookNest",
     "slug": "booknest",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -11,7 +11,7 @@
     "splash": {
       "image": "./assets/images/splash-icon.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#f4e7d8"
     },
     "ios": {
       "supportsTablet": true
@@ -19,10 +19,11 @@
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/images/adaptive-icon.png",
-        "backgroundColor": "#ffffff"
+        "backgroundColor": "#f4e7d8"
       },
       "edgeToEdgeEnabled": true,
-      "predictiveBackGestureEnabled": false
+      "predictiveBackGestureEnabled": false,
+      "package": "com.druidivine.booknest"
     },
     "web": {
       "bundler": "metro",
@@ -34,6 +35,12 @@
     ],
     "experiments": {
       "typedRoutes": true
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "ee34ba32-9df4-4f11-9c16-5fc102f35df2"
+      }
     }
   }
 }
